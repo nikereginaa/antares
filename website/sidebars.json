@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Antares": ["doc1","registrasi"],
+    "Contoh code dan Library": ["doc2","Esp"],
+    "API | HTTP": ["device", "datadevace","subscriber"],
+    "Data Divice": ["doc4"],
+    "List of Acronyms": ["doc3"],
+    "Software": ["doc2"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+  
+}

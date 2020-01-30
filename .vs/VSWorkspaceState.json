@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\website",
+    "\\website\\blog",
+    "\\website\\core",
+    "\\website\\i18n",
+    "\\website\\pages",
+    "\\website\\pages\\en",
+    "\\website\\static"
+  ],
+  "SelectedNode": "\\website\\siteConfig.js",
+  "PreviewInSolutionExplorer": false
+}
